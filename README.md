@@ -22,18 +22,6 @@ O Hostly foi criado com o objetivo de ajudar estabelecimentos de hospedagem a ma
 
 ---
 
-## 🛠️ Tecnologias
-
-Este projeto foi desenvolvido utilizando:
-
-- (adicione aqui suas tecnologias, exemplo:)
-- Java / Spring
-- MySQL
-- HTML / CSS
-- JavaScript
-
----
-
 ## 🚀 Como executar o projeto
 
 ```bash
