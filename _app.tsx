@@ -1,0 +1,12 @@
+// _app.tsx
+import { BrowserRouter as Router } from 'react-router-dom';
+
+function MyApp({ Component, pageProps }) {
+  return (
+    <Router>
+      <Component {...pageProps} />
+    </Router>
+  );
+}
+
+export default MyApp;
