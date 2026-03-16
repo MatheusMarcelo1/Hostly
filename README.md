@@ -1,4 +1,7 @@
-# 🏨 Hostly
+
+<p align="center">
+  <img src="/src/imgs/Hostly.png" alt="logo" width="500" style="max-width:100%;height:auto;" />
+</p>
 
 **Hostly** é um sistema de gestão de hospedagem desenvolvido para facilitar a administração de hotéis, pousadas e acomodações.
 
@@ -32,6 +35,7 @@ git clone https://github.com/seu-usuario/hostly
 cd hostly
 
 # executar o projeto
+npm run dev
 ```
 
 ---
