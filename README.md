@@ -22,7 +22,6 @@ O Hostly foi criado com o objetivo de ajudar estabelecimentos de hospedagem a ma
 
 ---
 
-
 ## 🚀 Como executar o projeto
 
 ```bash
@@ -33,8 +32,6 @@ git clone https://github.com/seu-usuario/hostly
 cd hostly
 
 # executar o projeto
-npm run dev
-
 ```
 
 ---
