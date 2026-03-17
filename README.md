@@ -34,6 +34,9 @@ git clone https://github.com/seu-usuario/hostly
 # entrar na pasta
 cd hostly
 
+#instalar dependências
+npm install
+
 # executar o projeto
 npm run dev
 ```
